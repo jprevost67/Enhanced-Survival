@@ -12,6 +12,7 @@ var ItemIds = {
 };
 var ItemDatas = {
 	Vanilla: {},
+	Modded: {}
 };
 
 Item.defineItem = function(par1int, par2string, par3int, par4string, par5int, par6boolean){
